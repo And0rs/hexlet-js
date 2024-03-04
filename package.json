@@ -1,0 +1,13 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "npm learning",
+  "main": "index.js",
+  "homepage": "https://github.com/And0rs/hexlet-js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "And0rs",
+  "license": "ISC"
+}
